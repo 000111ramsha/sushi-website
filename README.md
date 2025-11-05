@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-  <div style="background: linear-gradient(135deg, #b1454a 0%, #121212 100%); padding: 20px; border-radius: 15px; max-width: 800px; margin: 0 auto;">
-    <img src="assets/sushi-1.png" alt="Sushi Banner" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  </div>
+  <img src="assets/sushi-1.png" alt="Sushi Banner" width="500" height="250">
   <br />
 
   <div>
